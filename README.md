@@ -3,10 +3,25 @@
 ## Who am I?
 
 ## Skill
+
 ### .NET
-- [ ] C#(.NET core, .NET Framework)  
-- [ ] ASP.NET(.NET Framework 4.7)  
+- [x] C#(.NET core, .NET Framework)  
+- [x] ASP.NET(.NET Framework 4.7)  
 - [ ] Xamarin  
+- [ ] MSSQL  
+
+### LNMP
+- [ ] Linux  
+- [ ] Nginx  
+- [ ] MySQL  
+- [ ] PHP  
+
+### Front-end
+- [ ] HTML  
+- [ ] CSS  
+- [ ] JavaScript  
+- [ ] TypeScript  
+
 ## My Website
 
 #### [Ying's Message](https://www.ranying.xyz)  
