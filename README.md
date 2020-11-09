@@ -1,4 +1,5 @@
 # Welcome to Ying's Github.
+- [Who am I?]() [Skill]() [What am I doing now?]() [My Website]() 
 
 ## Who am I?
 I am a student from China. I'm 18 years old. Now I'm studying in preparatory department. In 2021 I will study Information Security at ITMO university as Bachelor. Nice to meet you in Github.
@@ -25,7 +26,7 @@ I am a student from China. I'm 18 years old. Now I'm studying in preparatory dep
 
 ### Other
 
-## Now I am doing
+## What am I doing now?
 
 ## My Website
 
