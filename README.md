@@ -1,7 +1,7 @@
 # Welcome to Ying's Github.
 - [Who am I?](#Who-am-I?)  
 - [Skill](#Skill)  
-- [What am I doing now?](#What-am-I-doing now?)  
+- [What am I doing now?](#What-am-I-doing-now?)  
 - [My Website](#My-Website)  
 
 ## Who am I?
