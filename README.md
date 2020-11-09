@@ -1,6 +1,7 @@
 # Welcome to Ying's Github.
 
 ## Who am I?
+I am a student from China. 
 
 ## Skill
 
@@ -21,6 +22,10 @@
 - [ ] CSS  
 - [ ] JavaScript  
 - [ ] TypeScript  
+
+### Other
+
+## Now I am doing
 
 ## My Website
 
