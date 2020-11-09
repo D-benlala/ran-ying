@@ -4,9 +4,9 @@
 
 ## Skill
 ### .NET
-- [] C#(.NET core, .NET Framework)  
-- [] ASP.NET(.NET Framework 4.7)  
-- [] Xamarin  
+- [ ] C#(.NET core, .NET Framework)  
+- [ ] ASP.NET(.NET Framework 4.7)  
+- [ ] Xamarin  
 ## My Website
 
 #### [Ying's Message](https://www.ranying.xyz)  
