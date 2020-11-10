@@ -13,18 +13,18 @@ I am a student from China. I'm 18 years old. Now I'm studying in preparatory dep
 - [x] C#(.NET core, .NET Framework)  
 - [x] ASP.NET(.NET Framework 4.7)  
 - [ ] Xamarin  
-- [ ] MSSQL  
+- [x] MSSQL  
 
 ### LNMP
 - [ ] Linux  
 - [ ] Nginx  
 - [ ] MySQL  
-- [ ] PHP  
+- [x] PHP  
 
 ### Front-end
-- [ ] HTML  
-- [ ] CSS  
-- [ ] JavaScript  
+- [x] HTML  
+- [x] CSS  
+- [x] JavaScript  
 - [ ] TypeScript  
 
 ### Other
