@@ -7,24 +7,25 @@
 I am a student from China. I'm 18 years old. Now I'm studying in preparatory department. In 2021 I will study Information Security at ITMO university as Bachelor. Nice to meet you in Github.
 
 ## Skill  
-|**.NET**|**LNMP**|**Other**|
-|--------|--------|--------|  
-|  
-- [x] C#(.NET core, .NET Framework)<br />  
-- [x] ASP.NET(.NET Framework 4.7)<br />  
-- [ ] Xamarin<br />  
-- [x] MSSQL<br />  
-|  
-- [ ] Linux<br />  
-- [ ] Nginx<br />  
-- [ ] MySQL<br />  
-- [x] PHP<br />  
-|  
-- [x] HTML<br />  
-- [x] CSS<br />  
-- [x] JavaScript<br />  
-- [ ] TypeScript<br />  
-|  
+
+**.NET**  
+- [x] C#(.NET core, .NET Framework)  
+- [x] ASP.NET(.NET Framework 4.7)  
+- [ ] Xamarin  
+- [x] MSSQL  
+
+**LNMP**  
+- [ ] Linux  
+- [ ] Nginx  
+- [ ] MySQL  
+- [x] PHP  
+
+**Other**  
+- [x] HTML  
+- [x] CSS  
+- [x] JavaScript  
+- [ ] TypeScript  
+
 ## My Project
 
 #### [Ying's Message](https://www.ranying.xyz)  
