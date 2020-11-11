@@ -14,17 +14,9 @@ I am a student from China. I'm 18 years old. Now I'm studying in preparatory dep
 - [ ] Xamarin  
 - [x] MSSQL  
 
-**LNMP**  
-- [ ] Linux  
-- [ ] Nginx  
-- [ ] MySQL  
-- [x] PHP  
-
 **Other**  
-- [x] HTML  
-- [x] CSS  
-- [x] JavaScript  
-- [ ] TypeScript  
+- [ ] Linux | Nginx | PHP | MySQL  
+- [x] HTML | CSS | JavaScript | TypeScript  
 
 ## My Project
 
