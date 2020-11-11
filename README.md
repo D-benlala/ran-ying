@@ -1,8 +1,7 @@
 # Welcome to Ying's Github.
 - [Who am I?](#who-am-i)  
-- [Skill](#skill)  
-- [What am I doing now?](#what-am-i-doing-now)  
-- [My Website](#my-website)  
+- [Skill](#skill)   
+- [My Project](#my-project)  
 
 ## Who am I?
 I am a student from China. I'm 18 years old. Now I'm studying in preparatory department. In 2021 I will study Information Security at ITMO university as Bachelor. Nice to meet you in Github.
@@ -21,13 +20,11 @@ I am a student from China. I'm 18 years old. Now I'm studying in preparatory dep
 - [ ] MySQL  
 - [x] PHP  
 
-### Front-end
+### Other
 - [x] HTML  
 - [x] CSS  
 - [x] JavaScript  
 - [ ] TypeScript  
-
-### Other
 
 ## My Project
 
