@@ -9,19 +9,19 @@ I am a student from China. I'm 18 years old. Now I'm studying in preparatory dep
 ## Skill
 |--------|--------|--------|--------|  
 |
-### .NET
+**.NET**
 - [x] C#(.NET core, .NET Framework)  
 - [x] ASP.NET(.NET Framework 4.7)  
 - [ ] Xamarin  
 - [x] MSSQL  
 |
-### LNMP
+**LNMP**
 - [ ] Linux  
 - [ ] Nginx  
 - [ ] MySQL  
 - [x] PHP  
 |
-### Other
+**Other**
 - [x] HTML  
 - [x] CSS  
 - [x] JavaScript  
