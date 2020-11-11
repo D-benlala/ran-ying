@@ -9,25 +9,22 @@ I am a student from China. I'm 18 years old. Now I'm studying in preparatory dep
 ## Skill  
 |**.NET**|**LNMP**|**Other**|
 |--------|--------|--------|  
-|
-
+|  
 - [x] C#(.NET core, .NET Framework)  
 - [x] ASP.NET(.NET Framework 4.7)  
 - [ ] Xamarin  
 - [x] MSSQL  
-|
-
+|  
 - [ ] Linux  
 - [ ] Nginx  
 - [ ] MySQL  
 - [x] PHP  
-|
-
+|  
 - [x] HTML  
 - [x] CSS  
 - [x] JavaScript  
 - [ ] TypeScript  
-|
+|  
 ## My Project
 
 #### [Ying's Message](https://www.ranying.xyz)  
