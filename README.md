@@ -29,11 +29,9 @@ I am a student from China. I'm 18 years old. Now I'm studying in preparatory dep
 
 ### Other
 
-## What am I doing now?
-
 ## My Project
 
-#### - [ ] [Ying's Message](https://www.ranying.xyz)  
+#### [Ying's Message](https://www.ranying.xyz)  
 It's a website which likes Twitter or Qzone  
 [About]()  
 
@@ -44,3 +42,4 @@ Here is all my web API.
 #### [Ying's Blog](https://blog.ranying.xyz)  
 It's my personal Blog.  
 [About]()  
+
