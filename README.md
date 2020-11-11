@@ -10,20 +10,20 @@ I am a student from China. I'm 18 years old. Now I'm studying in preparatory dep
 |**.NET**|**LNMP**|**Other**|
 |--------|--------|--------|  
 |  
-- [x] C#(.NET core, .NET Framework)  
-- [x] ASP.NET(.NET Framework 4.7)  
-- [ ] Xamarin  
-- [x] MSSQL  
+- [x] C#(.NET core, .NET Framework)<br />  
+- [x] ASP.NET(.NET Framework 4.7)<br />  
+- [ ] Xamarin<br />  
+- [x] MSSQL<br />  
 |  
-- [ ] Linux  
-- [ ] Nginx  
-- [ ] MySQL  
-- [x] PHP  
+- [ ] Linux<br />  
+- [ ] Nginx<br />  
+- [ ] MySQL<br />  
+- [x] PHP<br />  
 |  
-- [x] HTML  
-- [x] CSS  
-- [x] JavaScript  
-- [ ] TypeScript  
+- [x] HTML<br />  
+- [x] CSS<br />  
+- [x] JavaScript<br />  
+- [ ] TypeScript<br />  
 |  
 ## My Project
 
