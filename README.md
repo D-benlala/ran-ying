@@ -6,22 +6,23 @@
 ## Who am I?
 I am a student from China. I'm 18 years old. Now I'm studying in preparatory department. In 2021 I will study Information Security at ITMO university as Bachelor. Nice to meet you in Github.
 
-## Skill
-|--------|--------|--------|--------|  
+## Skill  
+|**.NET**|**LNMP**|**Other**|
+|--------|--------|--------|  
 |
-**.NET**
+
 - [x] C#(.NET core, .NET Framework)  
 - [x] ASP.NET(.NET Framework 4.7)  
 - [ ] Xamarin  
 - [x] MSSQL  
 |
-**LNMP**
+
 - [ ] Linux  
 - [ ] Nginx  
 - [ ] MySQL  
 - [x] PHP  
 |
-**Other**
+
 - [x] HTML  
 - [x] CSS  
 - [x] JavaScript  
