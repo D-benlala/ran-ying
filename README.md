@@ -20,14 +20,11 @@ I am a student from China. I'm 18 years old. Now I'm studying in preparatory dep
 ## My Project
 
 #### [Ying's Message](https://www.ranying.xyz)  
-It's a website which likes Twitter or Qzone  
-[About]()  
+It's a website which likes Twitter or Qzone  [About]()  
 
 #### [Ying's API](https://apis.ranying.xyz)  
-Here is all my web API.  
-[About]()  
+Here is all my web API.  [About]()  
 
 #### [Ying's Blog](https://blog.ranying.xyz)  
-It's my personal Blog.  
-[About]()  
+It's my personal Blog.  [About]()  
 
