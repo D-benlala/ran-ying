@@ -20,11 +20,10 @@ I am a student from China. I'm 18 years old. Now I'm studying in preparatory dep
 ## My Project and Repositories
 
 #### [Ying's Message](https://www.ranying.xyz)  
-It's a website which likes Twitter or Qzone  
-[About](https://github.com/Ran-ying/Ying-Message)  
+It's a website which likes Twitter or Qzone  [About](https://github.com/Ran-ying/Ying-Message)  
 
 #### [Ying's API](https://apis.ranying.xyz)  
-Here is all my web API.  [About]()  
+Here is a public web API. Now still building.  [About]()  
 
 #### [C Sharp Small Program](https://github.com/Ran-ying/Csharp-SmallProgram)
   
