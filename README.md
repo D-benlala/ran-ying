@@ -1,4 +1,4 @@
-# Welcome to Ying's Github.
+# Welcome to Ying's Page.
 - [Who am I?](#who-am-i)  
 - [Skill](#skill)   
 - [My Project and Repositories](#my-project-and-repositories)  
