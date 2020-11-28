@@ -1,7 +1,7 @@
 # Welcome to Ying's Page.
 - [Who am I?](#who-am-i)  
 - [Skill](#skill)   
-- [My Project and Repositories](#my-project-and-repositories)  
+- [My Project](#my-project)  
 
 ## Who am I?
 I am a student from China. I'm 18 years old. I am a .NET programmer which use C#. I also love designing website. Now I'm studying in preparatory department. In 2021 I will study Information Security at ITMO university as Bachelor. Nice to meet you in Github. Here is my personal Blog: [Ying's Message](https://www.ranying.xyz)  
@@ -17,10 +17,10 @@ I am a student from China. I'm 18 years old. I am a .NET programmer which use C#
 - [ ] Linux | Nginx | PHP | MySQL
 - [x] HTML | CSS | JavaScript | TypeScript
 
-## My Project and Repositories
+## My Project
 
 #### Ying's Message  
-It's my Blog 
+It's my personal Blog. 
 [Source Code](https://github.com/Ran-ying/Ying-Message) 
 [Website](https://www.ranying.xyz)  
 
